@@ -1,0 +1,23 @@
+,Emisión,Frecuencia,Energía,Clasificación
+0,ce-M γ 1,0.914,0.001749,partícula
+1,ce-N+ γ 1,0.0757,0.002174,partícula
+2,γ 2,0.889,0.1405,fotón
+3,ce-K γ 2,0.0879,0.1194,partícula
+4,ce-L1 γ 2,0.00967,0.1374,partícula
+5,ce-L2 γ 2,0.00061,0.1377,partícula
+6,ce-L3 γ 2,0.000301,0.1378,partícula
+7,ce-M γ 2,0.0019199999999999998,0.14,partícula
+8,ce-N+ γ 2,0.000371,0.1405,partícula
+9,ce-K γ 3,0.0069099999999999995,0.1216,partícula
+10,ce-L1 γ 3,0.00117,0.1396,partícula
+11,ce-L2 γ 3,0.00024300000000000002,0.1399,partícula
+12,ce-L3 γ 3,0.00074,0.14,partícula
+13,ce-M γ 3,0.00041900000000000005,0.1422,partícula
+14,Kα1 X ray,0.0403,0.01837,fotón
+15,Kα2 X ray,0.0212,0.01825,fotón
+16,Kβ1 X ray,0.00688,0.02062,fotón
+17,Auger-KLL,0.0145,0.01535,partícula
+18,Auger-KLX,0.00576,0.01777,partícula
+19,Auger-LMM,0.071,0.002053,partícula
+20,Auger-LMX,0.0305,0.002468,partícula
+21,Auger-MXY,1.11,0.000409,partícula
